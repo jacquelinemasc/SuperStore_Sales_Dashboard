@@ -8,7 +8,7 @@ This project features a comprehensive, interactive Power BI Dashboard for a Supe
 2.	Performance Analysis: Analyze sales trends Year-over-Year (YoY) and segment performance by Region, Customer Segment, Category, and State to pinpoint critical business drivers.
 3.	Customer Segmentation: Implement Age-based segmentation to identify high-value customer demographics for targeted marketing campaigns.
 4.	Sales Forecasting: Utilize Power BI's built-in time series capabilities to forecast future sales trends.
-5.	
+
 ##	Methodology & Technical Stack
 Data Preparation: Power BI was used for robust data cleaning, type conversion, and structuring the data model prior to analysis.
 
